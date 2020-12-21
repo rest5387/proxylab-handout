@@ -1,5 +1,4 @@
 # CS:APP Proxy Lab
-#
 # Student Source Files
 
 This directory contains the files you will need for the CS:APP Proxy
